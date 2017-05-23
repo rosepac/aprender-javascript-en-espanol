@@ -6,7 +6,7 @@ Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScri
   * [Cursos Interactivos](#cursos-interactivos)
   * [Recursos de Estudio](#recursos-de-estudio)
     * [Chuletas en Línea](#chuletas-en-línea)
-    * [Chuletas Imprimibles](#chuletas-imprimibles)
+    * [Chuletas Imprimibles](#chuletas-imprimir)
   * [Videotutoriales](#video-tutoriales)
 
 -----
@@ -17,7 +17,7 @@ Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScri
 
 ## Recursos de Estudio
 * [Chuletas En Línea]()
-* [Chuletas Imprimibles](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js) - Emezeta
+* [Chuletas Imprimir](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js) - Emezeta
 
 ## Video-tutoriales
 * [Curso de Javascript Desde 0](https://www.youtube.com/watch?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&v=m2nscBtQEIs) - Playlist videotutorial de 78 vídeos de 15 minutos cada uno (pildorasinformaticas).
