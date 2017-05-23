@@ -5,8 +5,8 @@ Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScri
 ## Contenidos
   * [Cursos Interactivos](#cursos-interactivos)
   * [Recursos de Estudio](#recursos-de-estudio)
-    * [Chuletas en Línea](#chuletas-en-línea)
-    * [Chuletas Imprimibles](#chuletas-imprimir)
+    * [Chuletas en Línea]
+    * [Chuletas Imprimibles]
   * [Videotutoriales](#video-tutoriales)
 
 -----
@@ -16,7 +16,7 @@ Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScri
 * [Inicios de Javascript](https://www.codecademy.com/learn/javascript) - Aprendizaje inicial a través de 28 lecciones que se basan en realizar ejercicios.
 
 ## Recursos de Estudio
-* [Chuletas En Línea]()
+* [Chuletas En Linea]()
 * [Chuletas Imprimir](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js) - Emezeta
 
 ## Video-tutoriales
