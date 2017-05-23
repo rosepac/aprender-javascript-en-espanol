@@ -1,4 +1,4 @@
-# Awesome **list** - Aprendiendo JavaScript en Español[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Aprendiendo JavaScript en Español[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Colección de enlaces impresionantes desde los que comenzar a aprender Javascript [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español.
 
