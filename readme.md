@@ -1,8 +1,7 @@
 # Aprendiendo JavaScript en Español   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p>
-<b>Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español).</b>
-<b align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="iconojavascript" height="140px" width="140px"></b>
+Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español).
+<p align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="iconojavascript" height="120px" width="120px">
 </p>
 
 * [Awesome Aprendiendo JavaScript](#awesome-learn-javascript-spanish)
