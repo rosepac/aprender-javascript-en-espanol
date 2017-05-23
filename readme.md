@@ -1,15 +1,14 @@
 # Aprendiendo JavaScript en Español   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español).
-<p align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="iconojavascript" height="120px" width="120px">
-</p>
+<p>Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español.</p>
+<div><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="iconojavascript" height="120px" width="120px"></div>
 
 * [Awesome Aprendiendo JavaScript](#awesome-learn-javascript-spanish)
-  * [Cursos Interactivos](#videotutoriales)
+  * [Cursos Interactivos](#cursos-interactivos)
   * [Recursos de Estudio](#recursos-de-estudio)
     * [Chuletas en Línea](#chuletas-en-línea)
     * [Chuletas Imprimibles](#chuletas-imprimibles)
-  * [Videotutoriales](#videotutoriales)
+  * [Videotutoriales](#video-tutoriales)
 
 -----
 
