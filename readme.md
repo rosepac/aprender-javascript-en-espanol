@@ -2,7 +2,7 @@
 
 Colección de enlaces impresionantes desde los que comenzar a aprender [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) en español.<div><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="iconojavascript" height="120px" width="120px"></div>
 
-* [Awesome Aprendiendo JavaScript](#awesome-learn-javascript-spanish)
+## [Awesome Aprendiendo JavaScript](#awesome-learn-javascript-spanish)
   * [Cursos Interactivos](#cursos-interactivos)
   * [Recursos de Estudio](#recursos-de-estudio)
     * [Chuletas en Línea](#chuletas-en-línea)
