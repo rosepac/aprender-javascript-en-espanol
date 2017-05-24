@@ -1,5 +1,6 @@
 $ cat .gitattributes
 *.rb linguist-language=JavaScript
+*.rb linguist-vendored=JavaScript
 
 * text=auto
 *.ai binary
