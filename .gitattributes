@@ -1,6 +1,6 @@
+$ cat .gitattributes
+*.rb linguist-language=JavaScript
+
 * text=auto
 *.ai binary
 readme.md merge=union
-
-$ cat .gitattributes
-*.rb linguist-language=JavaScript
